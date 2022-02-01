@@ -1,0 +1,99 @@
+
+/* padding column next to checkboxes */
+.zA>.PF {
+    display: none;
+}
+
+/* important icon column */
+.WA.xY {
+    display: none;
+}
+
+/* sender column */
+.yX.xY {
+	padding-right: 8px;
+    flex-basis: 80px;
+    max-width: 80px;
+}
+
+/* subject column */
+.xY.a4W {
+    font-size: .6rem;
+	max-width: 220px;
+    padding-right: 8px;
+}
+
+/* attachment column */
+.yf.xY {
+    display: none;
+}
+
+/* gmail logo */
+.gb_pa:not(.gb_qa) .gb_Wc .gb_nc {
+    display: none;
+}
+
+/* search bar */
+.gb_Pd.gb_Ie:not(.gb_ye) .gb_ze {
+    max-width: 300px;
+}
+
+/* search and settings container */
+.gb_De {
+	justify-content: flex-start;
+
+} 
+
+/* account avatar etc */
+.gb_Qd.gb_Sa.gb_Ed.gb_Td {
+    display: none;
+}
+
+/* hamburger menu container */
+.gb_Ed.gb_Wc.gb_Xc {
+	max-width: 50px;
+    min-width: 50px !important;
+}
+
+/* checkbox column */
+.zA>td.oZ-x3 {
+    width: 14px;
+}
+
+/* email content window - and possible other stuff */
+.nH {
+    max-width: 780px;
+}
+
+/* column left of main mail content */
+.aju {
+    min-width: 2px;
+    max-width: 2px;
+}
+
+/* sender's avatar left of email content */
+.aCi {
+    display: none;
+}
+
+/* sender details and date and top padding in opened email */
+.hx.gs {
+    max-width: 650px;
+    padding: 0 0 40px 0;
+}
+
+/* stop showing fucking huge images so no side-scroll */
+img {
+  max-width: 100%;
+}
+
+/* fav star icon in open email */
+.bi4 {
+    display: none;
+}
+
+/* name and email in open message */
+.gF {
+    max-width: 500px;
+}
+

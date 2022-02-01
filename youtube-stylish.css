@@ -1,0 +1,37 @@
+
+/* https://docs.google.com/document/d/119oKttnYV0DhNL2SXleXvc1ce2b1p80_NFcy9bHhwaU/edit?usp=sharing */
+
+/* dislike button */
+.style-scope.ytd-menu-renderer.force-icon-button.style-text {
+    display: none;
+}
+
+/* share download thanks etc buttons */
+#menu-container {
+	display: none;
+}
+
+/* view count and date */
+#info-text {
+    font-size: 6em;
+}
+
+/* related vids tags */
+.style-scope yt-chip-cloud-renderer
+{
+	display: none;
+}
+
+/*progress bar */
+.ytp-progress-bar-container 
+{
+    height: 100px !important; 
+}
+
+.tp-yt-paper-checkbox.style-scope {
+    width: 50px;
+    
+}
+
+
+

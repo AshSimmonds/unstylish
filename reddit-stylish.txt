@@ -1,0 +1,175 @@
+.thumbnail {
+    width: 150px;
+    height: 150px;
+}
+
+.thumbnail img {
+	width: 100%;
+    height: 100%;
+}
+
+.arrow, .share li {
+    display: none;
+}
+
+.title a.title {
+    font-size: 1.5em;
+}
+
+.expando-button {
+    width: 80px;
+    height:80px;
+    border: 1px solid Teal;
+}
+
+.first {
+    font-size: 1.5em;
+}
+
+.subreddit {
+    font-size: 2em;
+    float: left;
+}
+
+.md {
+    font-size: 1.5em;
+}
+
+.flat-list ul { 
+    color: #ff0000;
+}
+
+.side {
+    max-width: 10%;
+}
+
+input[name="q"] {
+    max-width: 100%;
+}
+
+.shortlink {
+    display: none;
+}
+
+#shortlink-text {
+    display: none;
+}
+
+.users-online {
+    display: none;
+}
+
+.toggle.flairtoggle {
+    display: none;
+}
+
+.author.may-blank.id-t2_3firg.flairselectable {
+    display: none;
+}
+
+.flair.flair-exp {
+    display: none;
+}
+
+.flairselectbtn.access-required {
+    display: none;
+}
+
+/* .tagline {
+    display: none;
+} */
+
+/*
+.usertext.warn-on-unload {
+    display: none;
+}
+*/
+
+.res-fancy-toggle-button.RESDashboardToggle {
+    display: none;
+}
+
+.res-fancy-toggle-button.RESshortcutside {
+    display: none;
+}
+
+.stickied {
+    display: none;
+}
+
+#sr-header-area {
+    font-size: 1rem;
+    display: none;
+}
+
+.tabmenu {
+    font-size: 1rem;
+}
+
+.post-sharing-button {
+    display: none;
+}
+
+.noCtrlF {
+    display: none;
+}
+
+li.link-save-button.save-button.login-required {
+    display: none;
+}
+
+.gold-give-gold.access-required.login-required.give-gold {
+    display: none;
+}
+
+.access-required.reportbtn {
+    display: none;
+}
+
+.post-crosspost-button {
+    display: none;
+}
+
+#RESAccountSwitcherIcon {
+    display: none;
+}
+
+.presence_circle {
+    display: none;
+}
+
+.userkarma {
+    display: none;
+}
+
+.embed-comment {
+    display: none;
+}
+
+.login-required.save-button.comment-save-button {
+    display: none;
+}
+
+.RESSubscriptionButton {
+    display: none;
+}
+
+.res-commentNavToggle {
+    display: none;
+}
+
+.title-button {
+    display: none;
+}
+
+.redditname.pagename.hover {
+    font-size: 2rem;
+}
+
+#RESAnnouncementAlert {
+    display: none;
+}
+
+
+
+

@@ -4,7 +4,7 @@
 
 ### TODO:
 
-[ ] explain how to get it running
-[ ] show screenshots of before/after
-[ ] ???
-[ ] prophet
+- [ ] explain how to get it running
+- [ ] show screenshots of before/after
+- [ ] ???
+- [ ] prophet

@@ -1,0 +1,74 @@
+! chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm/dashboard.html#1p-filters.html
+
+! 30/12/2019 https://www.reddit.com
+www.reddit.com##.RES-keyNav-activeElement.res-selected.unvoted.entry > .top-matter > .buttons.flat-list > .share
+www.reddit.com##.RES-keyNav-activeElement.res-selected.unvoted.entry > .top-matter > .buttons.flat-list > .login-required.save-button.link-save-button > [href="#"]
+www.reddit.com##.RES-keyNav-activeElement.res-selected.unvoted.entry > .top-matter > .buttons.flat-list > li:nth-of-type(4)
+www.reddit.com##.submit-link.submit.sidebox > .morelink
+www.reddit.com##.submit-text.submit.sidebox
+www.reddit.com##.premium-banner-outer
+www.reddit.com##.create.sidebox > .morelink
+www.reddit.com##.create.sidebox
+
+! 02/01/2020 https://www.pirate-bay.net
+www.pirate-bay.net##.sidebar-vpn
+
+! 25/05/2020 https://mail.google.com
+mail.google.com##.aj3.Zk.pp.YM
+mail.google.com##.aeQ
+
+! 07/06/2020 https://www.facebook.com
+www.facebook.com###u_0_d
+www.facebook.com###u_0_2f
+www.facebook.com###u_0_2e
+
+! 30/06/2020 https://www.dicksmith.com.au
+www.dicksmith.com.au##.active.k3_legacy.salesnotice
+||assets.kogan.com/files/banners/$image
+www.dicksmith.com.au##.footer-kespa
+
+! 30/06/2020 https://www.facebook.com
+www.facebook.com###u_0_1g
+
+! 01/07/2020 https://docs.google.com
+docs.google.com##.waffle-assistant-entry-expanded.companion-collapsed.waffle-assistant-entry
+
+! 11/08/2020 https://www.fastcompany.com
+www.fastcompany.com##.jw-reset.jw-video
+www.fastcompany.com##.post__sidebar
+www.fastcompany.com###lightbox-iframe-881872bb-e6e2-4450-b18e-cf2d4a7f9f0e
+
+! 13/08/2020 https://www.leaf.tv
+www.leaf.tv##.initial-content.view.article-view > .inner > .article-body > .article-right-rail > .forest-bird-promo > .wrapper > .overlay
+
+! 15/08/2020 https://www.tomshardware.com
+www.tomshardware.com##.sticky-player-background
+
+! 2020-08-28 https://www.the-scientist.com
+www.the-scientist.com##.ModalForm
+
+! 2020-10-21 https://www.leaf.tv
+www.leaf.tv##.initial-content.view.article-view > .inner > .article-body > .article-right-rail > .forest-bird-promo > .wrapper > .video
+
+! 2021-11-26 https://www.reddit.com
+www.reddit.com##div.spacer:nth-of-type(9)
+www.reddit.com##.bottom
+
+! 2021-12-01 https://en.wikipedia.org
+en.wikipedia.org##.frb-inline-main
+en.wikipedia.org##.frb-country-AU.frb-rml-enabled.frb
+en.wikipedia.org##.reveal.frb-rml-enabled.frb
+
+! 2021-12-02 https://mail.google.com
+mail.google.com##.xY.apU
+
+! 2021-12-11 https://stackoverflow.com
+stackoverflow.com##.show-votes
+stackoverflow.com##.ps-relative.js-pinned-left-sidebar.left-sidebar
+
+! 2022-02-08 https://www.adelaidenow.com.au
+www.adelaidenow.com.au##div:nth-of-type(8)
+
+! 2022-04-20 https://twitter.com
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr.r-g2wdr4.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n
+

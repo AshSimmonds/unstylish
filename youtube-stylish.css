@@ -8,7 +8,7 @@
 
 /* share download thanks etc buttons */
 #menu-container {
-	display: none;
+/*	display: none; */
 }
 
 /* view count and date */
@@ -26,12 +26,13 @@
 .ytp-progress-bar-container 
 {
     height: 100px !important; 
+    bottom: 250px;
+    opacity: 0.2;
 }
 
 .tp-yt-paper-checkbox.style-scope {
     width: 50px;
     
 }
-
 
 

@@ -8,8 +8,10 @@
 
 
 /* view count and date */
-#info-text {
-    font-size: 6em;
+#info-container {
+    font-size: 2em;
+    margin: 0.75em;
+    
 }
 
 /* related vids tags */
@@ -32,9 +34,9 @@
 }
 
 /* add to quere */
-#items > ytd-menu-service-item-renderer.style-scope.ytd-menu-popup-renderer.iron-selected {
+/* #items > ytd-menu-service-item-renderer.style-scope.ytd-menu-popup-renderer.iron-selected {
     display: none;
-}
+} */
 
 /* save to watch later */
 /* #items > ytd-menu-service-item-renderer:nth-child(2) {    display: none; } */
@@ -58,10 +60,6 @@
     display: none;
 }
 
-/* download button */
-#flexible-item-buttons {
-    display: none;
-}
 
 /* share button */
 #top-level-buttons-computed > ytd-button-renderer {

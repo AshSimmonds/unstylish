@@ -25,9 +25,9 @@
 /*progress bar */
 .ytp-progress-bar-container 
 {
-    height: 100px !important; 
-    bottom: 250px;
-    opacity: 0.2;
+    height: 129px !important; 
+    bottom: 129px;
+    opacity: 0.3;
 }
 
 .tp-yt-paper-checkbox.style-scope {
@@ -35,4 +35,66 @@
     
 }
 
+/* add to quere */
+#items > ytd-menu-service-item-renderer.style-scope.ytd-menu-popup-renderer.iron-selected {
+    display: none;
+}
 
+/* save to watch later */
+#items > ytd-menu-service-item-renderer:nth-child(2) {
+    display: none;
+}
+
+/* cast to */
+#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-right-controls > button.ytp-remote-button.ytp-button {
+    display: none;
+}
+
+/* autoplay */
+#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-right-controls > button:nth-child(6) {
+    display: none;
+}
+
+/* search by voice */
+#voice-search-button {
+    display: none;
+}
+
+#subscribe-button {
+    display: none;
+}
+
+/* watch later - add to quere */
+#hover-overlays {
+    display: none;
+}
+
+/* genre layover on home page */
+#scroll-container {
+    display: none;
+}
+
+/* sidebar explore */
+#sections > ytd-guide-section-renderer:nth-child(3) {
+    display: none;
+}
+
+/* sidebar more from youtube */
+#sections > ytd-guide-section-renderer:nth-child(4) {
+    display: none;
+}
+
+/* multiselect add to queue */
+#msfy-popup-menu #msfy-popup-menu-item-3 {
+    display: none;
+}
+
+/* multiselect save to watch later */
+#msfy-popup-menu #msfy-popup-menu-item-4 {
+    display: none;
+}
+
+/* save to watch later */
+#playlists > ytd-playlist-add-to-option-renderer:nth-child(1) {
+    display: none;
+}

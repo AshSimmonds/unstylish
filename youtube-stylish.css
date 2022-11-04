@@ -6,10 +6,6 @@
     display: none;
 }
 
-/* share download thanks etc buttons */
-#menu-container {
-/*	display: none; */
-}
 
 /* view count and date */
 #info-text {
@@ -41,9 +37,7 @@
 }
 
 /* save to watch later */
-#items > ytd-menu-service-item-renderer:nth-child(2) {
-    display: none;
-}
+/* #items > ytd-menu-service-item-renderer:nth-child(2) {    display: none; } */
 
 /* cast to */
 #movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-right-controls > button.ytp-remote-button.ytp-button {
@@ -61,6 +55,16 @@
 }
 
 #subscribe-button {
+    display: none;
+}
+
+/* download button */
+#flexible-item-buttons {
+    display: none;
+}
+
+/* share button */
+#top-level-buttons-computed > ytd-button-renderer {
     display: none;
 }
 

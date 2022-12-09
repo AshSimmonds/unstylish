@@ -1,0 +1,4 @@
+// stupid fake CTA dropdown constantly showing dozens of "notifications"
+[aria-label="Prime offers"] {
+    display: none;
+}
